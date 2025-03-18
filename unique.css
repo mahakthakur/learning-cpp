@@ -1,0 +1,41 @@
+
+
+
+
+.wrapper{
+    display: flex;
+  justify-content: baseline;
+  background-color: rgb(25, 48, 162);
+  height: 300px;
+    width: 1000px;
+    color: white;
+    margin-top: 100px;
+   
+    
+
+ 
+}
+
+.frame{
+background-image: url(kerala.jpg); 
+
+border: 3px solid black ;
+width: 350px;
+height: 300px;
+border-radius: 50px;
+margin-left: 20px;
+position: relative;
+bottom: 20px; 
+
+margin-right: 20px;
+
+ 
+}
+.h1{
+  font-size: 50px;
+}
+
+
+
+
+

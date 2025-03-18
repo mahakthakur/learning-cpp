@@ -1,0 +1,33 @@
+.main{
+    text-shadow: -3px -4px 5px red;
+    padding: 30px;
+
+}
+.container{
+    background-color: blueviolet;
+    text-shadow: 4px -4px 2px beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    border: 10px dotted black;
+}
+.fix{
+    background-color: rgb(43, 226, 113);
+    text-shadow: 4px -4px 2px beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    margin-top: 20px;
+    border: 13px solid black;
+    
+
+}
+.container button{
+    background-color: beige;
+    border-radius: 20px;
+    padding: 10px;
+}

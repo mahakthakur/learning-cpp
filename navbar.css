@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(152, 115, 186);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+}
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 40px;
+    
+}

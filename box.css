@@ -1,0 +1,15 @@
+.wrapper{
+    background-color: brown;
+    height: 300px;
+    width: 300px;
+    box-shadow: 4px 3px 12px 6px blueviolet;
+    border-top-left-radius: 50px;
+    
+}
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+    
+}
